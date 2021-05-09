@@ -44,6 +44,9 @@
     <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Application.NumberWithoutBreak">
@@ -236,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620590527189</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Новый игнор-лист">
+      <created>1620590753650</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1620590753650</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -286,6 +296,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="212" key="#Notifications/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588947639" />
+    <state x="806" y="212" width="926" height="679" key="#Project_Structure" timestamp="1620591183706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="212" width="926" height="679" key="#Project_Structure/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620591183706" />
     <state x="659" y="435" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1620576732480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -295,10 +309,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="796" y="378" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1618860138970" />
-    <state x="696" y="117" width="872" height="825" key="CommitChangelistDialog2" timestamp="1620590526777">
+    <state x="696" y="117" width="872" height="825" key="CommitChangelistDialog2" timestamp="1620590753379">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="696" y="117" width="872" height="825" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620590526777" />
+    <state x="696" y="117" width="872" height="825" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620590753379" />
     <state x="266" y="89" width="1536" height="832" key="DiffContextDialog" timestamp="1620590337983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
