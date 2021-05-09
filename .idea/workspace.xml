@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8082563-f9da-4111-9c69-226c63da05aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -40,7 +45,7 @@
     <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="ics" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Application.NumberWithoutBreak">
     <configuration name="Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -204,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620587730000</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Изменена структура задач&#10;Убрано все из игнор-листа">
+      <created>1620588547223</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620588547224</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +236,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/src/main/java/lections/lesson1" />
       <path value="$PROJECT_DIR$/src/main/java/homework" />
+      <path value="$PROJECT_DIR$/src" />
     </ignored-roots>
     <MESSAGE value="added 3 tasks" />
     <MESSAGE value="added 5 tasks" />
@@ -237,6 +250,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="716" y="189" key="#LogicResult/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1618857860205" />
+    <state x="806" y="212" key="#Notifications" timestamp="1620588947639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="212" key="#Notifications/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588947639" />
     <state x="659" y="435" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1620576732480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -246,10 +263,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="796" y="378" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1618860138970" />
-    <state x="696" y="117" key="CommitChangelistDialog2" timestamp="1620587728921">
+    <state x="696" y="117" width="872" height="825" key="CommitChangelistDialog2" timestamp="1620589148346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="696" y="117" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620587728921" />
+    <state x="696" y="117" width="872" height="825" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620589148346" />
     <state x="266" y="89" key="DiffContextDialog" timestamp="1620585684803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -306,18 +323,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1297" height="291" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.720@0.0.1920.1040" timestamp="1620065924022" />
-    <state x="543" y="154" key="SettingsEditor" timestamp="1620588471680">
+    <state x="926" y="155" key="SettingsEditor" timestamp="1620588865617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="154" key="SettingsEditor/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588471680" />
-    <state x="591" y="252" key="Vcs.Push.Dialog.v2" timestamp="1620587821408">
+    <state x="926" y="155" key="SettingsEditor/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588865617" />
+    <state x="591" y="252" key="Vcs.Push.Dialog.v2" timestamp="1620589036331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="591" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620587821408" />
-    <state x="563" y="346" width="585" height="384" key="com.intellij.ide.util.TipDialog" timestamp="1620588499730">
+    <state x="591" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620589036331" />
+    <state x="563" y="346" width="585" height="384" key="com.intellij.ide.util.TipDialog" timestamp="1620589022610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="563" y="346" width="585" height="384" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588499730" />
+    <state x="563" y="346" width="585" height="384" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620589022610" />
     <state x="563" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.720@0.0.1920.1040" timestamp="1618676633494" />
     <state x="808" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618861556600">
       <screen x="0" y="0" width="1920" height="1040" />
