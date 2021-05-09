@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8082563-f9da-4111-9c69-226c63da05aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -216,8 +216,32 @@
       <option name="project" value="LOCAL" />
       <updated>1620588547224</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Изменена структура">
+      <created>1620589255241</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1620589255242</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Новый игнор-лист">
+      <created>1620589624331</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1620589624331</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -243,7 +267,9 @@
     <MESSAGE value="added 6 tasks" />
     <MESSAGE value="Изменена структура задач" />
     <MESSAGE value="Изменена структура задач&#10;Убрано все из игнор-листа" />
-    <option name="LAST_COMMIT_MESSAGE" value="Изменена структура задач&#10;Убрано все из игнор-листа" />
+    <MESSAGE value="Изменена структура" />
+    <MESSAGE value="Новый игнор-лист" />
+    <option name="LAST_COMMIT_MESSAGE" value="Новый игнор-лист" />
   </component>
   <component name="WindowStateProjectService">
     <state x="716" y="189" key="#LogicResult" timestamp="1618857860205">
@@ -263,18 +289,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="796" y="378" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1618860138970" />
-    <state x="696" y="117" width="872" height="825" key="CommitChangelistDialog2" timestamp="1620589148346">
+    <state x="696" y="117" width="872" height="825" key="CommitChangelistDialog2" timestamp="1620589623486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="696" y="117" width="872" height="825" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620589148346" />
-    <state x="266" y="89" key="DiffContextDialog" timestamp="1620585684803">
+    <state x="696" y="117" width="872" height="825" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620589623486" />
+    <state x="266" y="89" width="1536" height="832" key="DiffContextDialog" timestamp="1620590337983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="266" y="89" key="DiffContextDialog/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620585684803" />
-    <state x="822" y="277" key="FileChooserDialogImpl" timestamp="1620586831240">
+    <state x="266" y="89" width="1536" height="832" key="DiffContextDialog/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620590337983" />
+    <state x="822" y="277" key="FileChooserDialogImpl" timestamp="1620590213396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="822" y="277" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620586831240" />
+    <state x="822" y="277" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620590213396" />
     <state x="860" y="432" key="Github.Dialog.Accounts.Choose" timestamp="1618938171711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -327,10 +353,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="926" y="155" key="SettingsEditor/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588865617" />
-    <state x="591" y="252" key="Vcs.Push.Dialog.v2" timestamp="1620589036331">
+    <state x="636" y="255" width="1157" height="593" key="ShowDiffWithBranchDialog" timestamp="1620590337983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="591" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620589036331" />
+    <state x="636" y="255" width="1157" height="593" key="ShowDiffWithBranchDialog/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620590337983" />
+    <state x="591" y="252" key="Vcs.Push.Dialog.v2" timestamp="1620590428283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="591" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620590428283" />
+    <state x="636" y="255" width="1157" height="593" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1620590337983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="255" width="1157" height="593" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620590337983" />
     <state x="563" y="346" width="585" height="384" key="com.intellij.ide.util.TipDialog" timestamp="1620589022610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
