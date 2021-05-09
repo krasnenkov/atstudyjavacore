@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8082563-f9da-4111-9c69-226c63da05aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620587378116</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Изменена структура задач&#10;Убрано все из игнор-листа">
+      <created>1620587730000</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1620587730000</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,25 +270,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="776" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1618857752594" />
-    <state width="1297" height="172" key="GridCell.Tab.0.bottom" timestamp="1620583292528">
+    <state width="1297" height="172" key="GridCell.Tab.0.bottom" timestamp="1620588481750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1297" height="172" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620583292528" />
+    <state width="1297" height="172" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588481750" />
     <state width="1297" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.720@0.0.1920.1040" timestamp="1620065924021" />
-    <state width="1297" height="172" key="GridCell.Tab.0.center" timestamp="1620583292527">
+    <state width="1297" height="172" key="GridCell.Tab.0.center" timestamp="1620588481750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1297" height="172" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620583292527" />
+    <state width="1297" height="172" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588481750" />
     <state width="1297" height="291" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.720@0.0.1920.1040" timestamp="1620065924021" />
-    <state width="1297" height="172" key="GridCell.Tab.0.left" timestamp="1620583292527">
+    <state width="1297" height="172" key="GridCell.Tab.0.left" timestamp="1620588481750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1297" height="172" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620583292527" />
+    <state width="1297" height="172" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588481750" />
     <state width="1297" height="291" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.720@0.0.1920.1040" timestamp="1620065924021" />
-    <state width="1297" height="172" key="GridCell.Tab.0.right" timestamp="1620583292527">
+    <state width="1297" height="172" key="GridCell.Tab.0.right" timestamp="1620588481750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1297" height="172" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620583292527" />
+    <state width="1297" height="172" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588481750" />
     <state width="1297" height="291" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.720@0.0.1920.1040" timestamp="1620065924021" />
     <state width="1297" height="291" key="GridCell.Tab.1.bottom" timestamp="1620065924022">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -298,17 +306,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1297" height="291" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.720@0.0.1920.1040" timestamp="1620065924022" />
-    <state x="543" y="154" key="SettingsEditor" timestamp="1620587354752">
+    <state x="543" y="154" key="SettingsEditor" timestamp="1620588471680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="154" key="SettingsEditor/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620587354752" />
-    <state x="591" y="252" key="Vcs.Push.Dialog.v2" timestamp="1620585648380">
+    <state x="543" y="154" key="SettingsEditor/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588471680" />
+    <state x="591" y="252" key="Vcs.Push.Dialog.v2" timestamp="1620587821408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="591" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620585648380" />
-    <state x="563" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1618676633494">
+    <state x="591" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620587821408" />
+    <state x="563" y="346" width="585" height="384" key="com.intellij.ide.util.TipDialog" timestamp="1620588499730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="563" y="346" width="585" height="384" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588499730" />
     <state x="563" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.720@0.0.1920.1040" timestamp="1618676633494" />
     <state x="808" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618861556600">
       <screen x="0" y="0" width="1920" height="1040" />
