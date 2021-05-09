@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8082563-f9da-4111-9c69-226c63da05aa" name="Default Changelist" comment="Изменена структура задач">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d8082563-f9da-4111-9c69-226c63da05aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620586010160</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Изменена структура задач">
+      <created>1620586169507</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620586169507</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,18 +216,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="796" y="378" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1618860138970" />
-    <state x="696" y="117" key="CommitChangelistDialog2" timestamp="1620586009111">
+    <state x="696" y="117" key="CommitChangelistDialog2" timestamp="1620586884249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="696" y="117" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620586009111" />
+    <state x="696" y="117" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620586884249" />
     <state x="266" y="89" key="DiffContextDialog" timestamp="1620585684803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="266" y="89" key="DiffContextDialog/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620585684803" />
-    <state x="822" y="277" key="FileChooserDialogImpl" timestamp="1620585937521">
+    <state x="822" y="277" key="FileChooserDialogImpl" timestamp="1620586831240">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="822" y="277" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620585937520" />
+    <state x="822" y="277" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620586831240" />
     <state x="860" y="432" key="Github.Dialog.Accounts.Choose" timestamp="1618938171711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -286,6 +292,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1618861556600" />
+    <state x="979" y="344" key="git4idea.merge.GitMergeDialog" timestamp="1620586424267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="979" y="344" key="git4idea.merge.GitMergeDialog/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620586424267" />
     <state x="872" y="313" key="svn.repositoryBrowser" timestamp="1618762969446">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
