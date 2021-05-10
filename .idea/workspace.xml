@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d8082563-f9da-4111-9c69-226c63da05aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework/lesson2/task2/Chess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/lesson2/task2/Chess.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +50,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.NumberWithoutBreak">
-    <configuration name="Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.lesson2.task7.Age" />
+  <component name="RunManager" selected="Application.Chess">
+    <configuration name="Chess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.lesson2.task2.Chess" />
       <module name="atstudyjavacore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.lesson2.task7.*" />
+          <option name="PATTERN" value="homework.lesson2.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.lesson2.task2.Chess" />
+    <configuration name="Friday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.lesson2.task1.Friday" />
       <module name="atstudyjavacore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.lesson2.task2.*" />
+          <option name="PATTERN" value="homework.lesson2.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chess" />
+        <item itemvalue="Application.Friday" />
         <item itemvalue="Application.NumberWithoutBreak" />
         <item itemvalue="Application.NumberWithBreak" />
         <item itemvalue="Application.SwitchWithoutBreaks" />
-        <item itemvalue="Application.Age" />
-        <item itemvalue="Application.Chess" />
       </list>
     </recent_temporary>
   </component>
@@ -333,25 +334,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="776" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1618857752594" />
-    <state width="1297" height="172" key="GridCell.Tab.0.bottom" timestamp="1620588481750">
+    <state width="1876" height="302" key="GridCell.Tab.0.bottom" timestamp="1620665549054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1297" height="172" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588481750" />
+    <state width="1876" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620665549054" />
     <state width="1297" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.720@0.0.1920.1040" timestamp="1620065924021" />
-    <state width="1297" height="172" key="GridCell.Tab.0.center" timestamp="1620588481750">
+    <state width="1876" height="302" key="GridCell.Tab.0.center" timestamp="1620665549054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1297" height="172" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588481750" />
+    <state width="1876" height="302" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620665549054" />
     <state width="1297" height="291" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.720@0.0.1920.1040" timestamp="1620065924021" />
-    <state width="1297" height="172" key="GridCell.Tab.0.left" timestamp="1620588481750">
+    <state width="1876" height="302" key="GridCell.Tab.0.left" timestamp="1620665549054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1297" height="172" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588481750" />
+    <state width="1876" height="302" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620665549054" />
     <state width="1297" height="291" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.720@0.0.1920.1040" timestamp="1620065924021" />
-    <state width="1297" height="172" key="GridCell.Tab.0.right" timestamp="1620588481750">
+    <state width="1876" height="302" key="GridCell.Tab.0.right" timestamp="1620665549054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1297" height="172" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620588481750" />
+    <state width="1876" height="302" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620665549054" />
     <state width="1297" height="291" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.720@0.0.1920.1040" timestamp="1620065924021" />
     <state width="1297" height="291" key="GridCell.Tab.1.bottom" timestamp="1620065924022">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -377,10 +378,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="255" width="1157" height="593" key="ShowDiffWithBranchDialog/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620590337983" />
-    <state x="591" y="252" key="Vcs.Push.Dialog.v2" timestamp="1620590711828">
+    <state x="591" y="252" key="Vcs.Push.Dialog.v2" timestamp="1620665545159">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="591" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620590711828" />
+    <state x="591" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1620665545159" />
     <state x="636" y="255" width="1157" height="593" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1620590337983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
