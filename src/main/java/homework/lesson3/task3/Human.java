@@ -3,13 +3,11 @@ package homework.lesson3.task3;
 public class Human {
     String name;
     int age;
-    String mother = null;
-    String father = null;
+    Human[] parents;
 
-    Human(String name, int age, String mother, String father) {
+    Human(String name, int age, Human mother, Human father) {
         this.name = name;
         this.age = age;
-        this.mother = mother;
-        this.father = father;
+        this.parents =new Human[] {mother, father};
     }
 }
